@@ -37,14 +37,17 @@ To get a local copy up and running follow these simple example steps.
 bundle install
 ```
 
+### Setup Database
+> To setup the database on your local machine run respectively the commands bellow:
 ```
-npm install
+ rails db:setup
+``` 
 ```
-or
-
+ rails db:migrate
+``` 
 ```
-yarn add
-```
+ rails db:seed
+``` 
 ### Run tests
 you can run one of the following command in your terminal
 1. Run testing
