@@ -7,7 +7,7 @@
 
 ## Built With
 
-- Major: Ruby, HTML,CSS
+- Major: Ruby
 - Frameworks: `Rails`
 - Technologies: Git, Gitflow, Linters, Github, PostgreSql, Rubocop
 
@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 - Have `visual-studio code` or any other code editor installed on your computer.
 
 ### Setup
-- In order to get a copy of this project you need to download it from https://github.com/Chrissiku/hello-rails-react
+- In order to get a copy of this project you need to download it from https://github.com/Chrissiku/hello-rails-back-end
 - Extract the zipped file and open it in your code editor
 ### Install
 - Run the command bellow in your terminal to get all required files
@@ -43,7 +43,7 @@ npm install
 or
 
 ```
-yar add
+yarn add
 ```
 ### Run tests
 you can run one of the following command in your terminal
