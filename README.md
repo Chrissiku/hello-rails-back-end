@@ -11,10 +11,9 @@
 - Frameworks: `Rails`
 - Technologies: Git, Gitflow, Linters, Github, PostgreSql, Rubocop
 
-## Live Demo 
-> The live demo is no available 
+## Link to Front-end
 
-<!-- [Live Demo Link](https://budget01app.herokuapp.com/) -->
+[Front-end](https://github.com/Chrissiku/hello-react-front-end)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
