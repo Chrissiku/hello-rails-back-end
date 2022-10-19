@@ -5,7 +5,7 @@ module Api
     class GreetingsController < ApplicationController
       def index
         greeting = Greeting.all.sample.message
-        render json: { status: 'SUCCESS', message: 'Loaded messages', data: greeting }, status: :ok
+        render json: { status: 'SUCCESS', message: 'Messages Loaded', greeting: }, status: :ok
       end
     end
   end
